@@ -6,4 +6,4 @@ Hoy hablaremos de su historia.
 
 En camara parece alto peor la verdad no esta tan alto.
 
-Hoy es el CEo de Tun tun
+Hoy es el CEo de Tun tun y ahora realiza una prueba de modificar editor por defecto en consola
